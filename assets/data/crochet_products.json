@@ -1,0 +1,43 @@
+{
+  "wearables": [
+    {
+      "name": "Beanie",
+      "price": "R 150",
+      "description": "ON SALE, whilst stocks last!",
+      "image": "./assets/images/products/crochet/beanie.jpeg"
+    },
+    {
+      "name": "Crochet Rainbow Beanie",
+      "price": "R 220",
+      "description": "Soft, breathable winter beanie with mixed colours",
+      "image": "./assets/images/products/crochet/beanie_2.jpeg"
+    },
+    {
+        "name": "Beanie Bundle x5",
+        "price": "R 850",
+        "description": "Handmade and perfect for Cold days essentials.",
+        "image": "./assets/images/products/crochet/beanie_bundle.jpeg"
+    }
+  ],
+
+  "decor": [
+    {
+      "name": "Cozy Cushion Cover",
+      "price": "R 180",
+      "description": "Chunky yarn cushion cover for a minimalist home feel.",
+      "image": ""
+    },
+    {
+      "name": "Round Table Mat",
+      "price": "R 120",
+      "description": "Perfect for kitchens and living rooms.",
+      "image": ""
+    },
+    {
+      "name": "Crochet Wall Hanging",
+      "price": "R 200",
+      "description": "Handmade wall decor for warm interior styling.",
+      "image": ""
+    }
+  ]
+}

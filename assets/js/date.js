@@ -1,8 +1,7 @@
+/* Automatically update the year in the footer */
 document.addEventListener("DOMContentLoaded", () => {
-  const yearElements = document.querySelectorAll(".current-year");
-  const currentYear = new Date().getFullYear();
-
-  yearElements.forEach(el => {
-    el.textContent = currentYear;
+  const year = new Date().getFullYear();
+  document.querySelectorAll(".current-year").forEach(el => {
+    el.textContent = year;
   });
 });

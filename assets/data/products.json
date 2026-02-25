@@ -1,0 +1,29 @@
+{
+  "core": [
+    { "name": "PWR Apricot", "image": "./assets/images/products/APLGO/pwr.png", "description": "Supports women’s natural nutritional health.", "price": "R 750" },
+    { "name": "PWR Lemon", "image": "./assets/images/products/APLGO/pwr-m.png", "description": "Supports men’s active lifestyle.", "price": "R 750" },
+    { "name": "STP", "image": "./assets/images/products/APLGO/stp.png", "description": "Supports natural responses to discomfort & repair.", "price": "R 750" },
+    { "name": "GTS", "image": "./assets/images/products/APLGO/gts.png", "description": "Supports natural energy & endurance.", "price": "R 750" },
+    { "name": "SLD", "image": "./assets/images/products/APLGO/sld.png", "description": "Supports mobility & recovery.", "price": "R 750" },
+    { "name": "GRW", "image": "./assets/images/products/APLGO/grw.png", "description": "Supports immune alertness & vitality.", "price": "R 750" },
+    { "name": "RLX", "image": "./assets/images/products/APLGO/rlx.png", "description": "Supports relaxation & calmness.", "price": "R 750" },
+    { "name": "NRM", "image": "./assets/images/products/APLGO/nrm.png", "description": "Supports normal glucose metabolism.", "price": "R 750" }
+  ],
+
+  "premium": [
+    { "name": "MLS", "image": "./assets/images/products/APLGO/mls.png", "description": "Supports healthy gut microbiome.", "price": "R 1125" },
+    { "name": "ALT", "image": "./assets/images/products/APLGO/alt.png", "description": "Supports natural breathing.", "price": "R 1125" },
+    { "name": "HRT", "image": "./assets/images/products/APLGO/hrt.png", "description": "Supports circulatory processes.", "price": "R 1125" },
+    { "name": "ICE", "image": "./assets/images/products/APLGO/ice.png", "description": "Supports digestion & immune defense.", "price": "R 1125" },
+    { "name": "HPR", "image": "./assets/images/products/APLGO/hpr.png", "description": "Supports natural detoxification.", "price": "R 1125" },
+    { "name": "LFT", "image": "./assets/images/products/APLGO/lft.png", "description": "Supports vitality with essential nutrients.", "price": "R 1125" }
+  ],
+
+  "elite": [
+    { "name": "BTY", "image": "./assets/images/products/APLGO/bty.png", "description": "Supports radiance & healthy aging.", "price": "R 1500" },
+    { "name": "BRN", "image": "./assets/images/products/APLGO/brn.png", "description": "Supports cognitive clarity.", "price": "R 1500" },
+    { "name": "HPY", "image": "./assets/images/products/APLGO/hpy.png", "description": "Helps unwind & reset mood.", "price": "R 1500" },
+    { "name": "AIR", "image": "./assets/images/products/APLGO/air.png", "description": "Supports breathing & immune health.", "price": "R 1500" },
+    { "name": "PFT", "image": "./assets/images/products/APLGO/pft.png", "description": "Supports appetite control.", "price": "R 1620" }
+  ]
+}
