@@ -46,13 +46,13 @@ header {
   width: 28px;
   height: 28px;
   border-radius: 50%;
-  background: var(--terracotta);
-  background-image: repeating-linear-gradient(
-    45deg,
-    rgba(255,255,255,0.5) 0,
-    rgba(255,255,255,0.5) 3px,
-    transparent 6px
-  );
+  background-image: url('../images/Logo_B.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+
+
   animation: spin 6s linear infinite;
 }
 
@@ -106,8 +106,8 @@ nav a:hover { background: var(--sage); }
 
  }
 
- .sec-crochet {
- }
+ /* .sec-crochet {
+ } */
 
 /* GRID */
 .grid {
@@ -168,6 +168,18 @@ nav a:hover { background: var(--sage); }
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 
+/* displayLogo */
+.displayLogo {
+  background-image: url('../images/Logo_B.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  width: 100%;
+  height: 500px;
+
+  animation: spin 36s linear infinite;
+}
 /* FOOTER */
 footer {
   background: var(--sage);

@@ -23,7 +23,7 @@ function renderCrochetProducts(containerId, items) {
     // fallback image
     const imageSrc = item.image && item.image.trim() !== ""
       ? item.image
-      : "./assets/images/Yarnova_Logo.jpeg";
+      : "./assets/images/text_Logo_B.png";
 
     return `
       <div class="card">
